@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="com.thoughtworks.binding:fxml_2.10:11.9.0+3-cadac35f" type="repository">
+    <properties maven-id="com.thoughtworks.binding:fxml_2.10:11.9.0+3-cadac35f" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/binding/fxml_2.10/11.9.0+3-cadac35f/fxml_2.10-11.9.0+3-cadac35f.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/binding/binding_2.10/11.9.0+3-cadac35f/binding_2.10-11.9.0+3-cadac35f.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/binding/safebuffer_2.10/11.9.0+3-cadac35f/safebuffer_2.10-11.9.0+3-cadac35f.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/extractor/extractor_2.10/2.1.0/extractor_2.10-2.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/enableIf/enableif_2.10/1.1.4/enableif_2.10-1.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/sde/core_2.10/3.1.1/core_2.10-3.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalaz/scalaz-core_2.10/7.2.7/scalaz-core_2.10-7.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalaz/scalaz-effect_2.10/7.2.7/scalaz-effect_2.10-7.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/macro-compat_2.10/1.1.1/macro-compat_2.10-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/binding/xmlextractor_2.10/11.9.0+3-cadac35f/xmlextractor_2.10-11.9.0+3-cadac35f.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/q/q_2.10/1.0.3/q_2.10-1.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
